@@ -1,2 +1,0 @@
-# nodeauth
-NodeJS Auth
